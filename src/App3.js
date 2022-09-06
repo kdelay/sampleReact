@@ -4,6 +4,7 @@ function App3() {
   return (
     <div className="App3">
       <h1>페이지 두번째 이동 성공!!!!!!!!!!!!!!</h1>
+      <h2>두 번 이동 했습니다.</h2>
 
       <button>
         <Link to="/">

@@ -5,6 +5,7 @@ function App2() {
   return (
     <div className="App2">
       <h1>페이지 이동 성공!!!!!!!!!!!!!!</h1>
+      <h2>한 번 이동 했습니다.</h2>
       <button>
         <Link to="/app3">
           <p className="liP">누르면 두번째 페이지 이동합니다.</p>
